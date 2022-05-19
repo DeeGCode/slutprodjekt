@@ -1,0 +1,74 @@
+body{
+    background-color: lightgreen !important;
+}
+
+form{
+    margin: auto;
+    margin-top:10%;
+    text-align: center;
+    width: 10%;
+}
+
+#feed{
+    float: left;
+    width: 25vw;
+    height: 100%;
+    border: 1px black solid;
+    margin: auto;
+    margin-top: 1%;
+    margin-left: 9%;
+    padding-left:3%;
+    background-color: wheat;
+}
+
+#text1{
+    margin: 1%;
+    float: left;
+    width: 25vw;
+    height: 100%;
+    border: 1px black solid;
+    background-color: wheat;
+}
+
+#text2{
+    margin: 1%;
+    float: right;
+    width: 25vw;
+    height: 100%;
+    border: 1px black solid;
+    background-color: wheat;
+}
+
+#login{
+    margin-left: 800px;
+}
+
+#icon{
+    border: 3px solid wheat;
+    border-radius: 20%;
+}
+
+#potdbild{
+    margin-left: 40%;
+}
+
+.navbar-custom {
+    background-color: lightgreen;
+    border: solid black;
+}
+
+.navbar-custom .navbar-brand{  
+    font-size: xx-large;
+    font-weight:bold;      
+    color: wheat;
+    -webkit-text-stroke-width: .8px;
+    -webkit-text-stroke-color: black;
+}
+
+.navbar-custom .nav-item {
+    font-size: x-large;
+    font-weight:bold;
+    color: wheat;
+    -webkit-text-stroke-width: .7px;
+    -webkit-text-stroke-color: black;
+}
